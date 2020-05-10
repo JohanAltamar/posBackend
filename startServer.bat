@@ -1,1 +1,1 @@
-npm start
+npm startPM2
